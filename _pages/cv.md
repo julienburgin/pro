@@ -11,35 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Nanociences, Université de Bordeaux, 2007
+* Master 2 Champs Particules Matière, Université Paris Scalay, 2004
+* Agrégation de Physique, ENS Cachan, 2003
+* Master 1 Physics, Université de Bordeaux, 2002
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since 2011: Assistant professor
+  * Université de Bordeaux
+  * UF Physique
+  * LOMA
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2007-2008: Postdoctoral Fellowship
+  * Université de Bordeaux
+  * LOMA
+  * Supervisor: Dr. Jean-Pierre Delville
+    
+* 2008-2009: Postdoctoral Fellowship
+  * Université de Bordeaux
+  * ICMCB & IMS
+  * Supervisor: Pr. Mona Treguer, Pr. Véronique Jubéra, Pr. Helène Débéda
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2007-2008: Postdoctoral Fellowship
+  * University of Chicago
+  * James Franck Institute
+  * Supervisor: Professor Philippe Guyot-Sionnest
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Ultrafast spectroscopy
+* Optical tweezers
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Nanoparticle synthesis
 
 Publications
 ======
