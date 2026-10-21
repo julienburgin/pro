@@ -7,8 +7,6 @@ date: since 2012
 location: "Talence, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Changements d'états
 ======
 
